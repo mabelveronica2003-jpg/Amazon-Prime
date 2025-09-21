@@ -70,3 +70,6 @@ Cards/KPIs → Total titles, unique genres, earliest/latest release.
 Used interactive filters (slicers) for Type, Genre, Country, Rating.
 
 Ensured intuitive, user-friendly navigation with visuals
+
+## Dashboard
+<img width="1180" height="661" alt="Screenshot 2025-09-22 014022" src="https://github.com/user-attachments/assets/bb30172a-9580-4de9-8ac8-9cc0067573c7" />
