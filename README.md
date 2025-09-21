@@ -13,7 +13,7 @@ Trends over time in released content
 
 This helps users, researchers, or business analysts understand viewer preferences, regional strategies, and overall growth trends of Amazon Prime content.
 
-## Key Business Questions
+## Questions
 
 The dashboard aims to answer questions such as:
 
@@ -31,9 +31,9 @@ Are there patterns in TV shows vs movies by region or genre?
 
 What percentage of titles belong to top contributing countries?
 
-## Process / Approach
+## Process
 
-## Data Collection
+### Data Collection
 
 Dataset of Amazon Prime titles containing fields like Title, Type, Genre, Release Year, Rating, Country, etc.
 
@@ -45,7 +45,7 @@ Standardized categorical values (e.g., unified ratings like "TV-MA" vs "TV MA").
 
 Converted release years into a proper date hierarchy for trend analysis.
 
-## Data Modeling
+### Data Modeling
 
 Loaded dataset into Power BI.
 
@@ -53,7 +53,7 @@ Built relationships (if multiple tables).
 
 Created calculated columns and DAX measures (e.g., Count of Titles, % Contribution by Country).
 
-## Visualization
+### Visualization
 
 Pie/Donut Charts → Movies vs TV Shows, Ratings distribution.
 
@@ -65,7 +65,7 @@ Maps → Content availability across countries.
 
 Cards/KPIs → Total titles, unique genres, earliest/latest release.
 
-## Dashboard Design
+### Dashboard Design
 
 Used interactive filters (slicers) for Type, Genre, Country, Rating.
 
