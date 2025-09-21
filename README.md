@@ -15,21 +15,21 @@ This helps users, researchers, or business analysts understand viewer preference
 
 ## Questions
 
-The dashboard aims to answer questions such as:
+- The dashboard aims to answer questions such as:
 
-How many movies vs TV shows are available on Amazon Prime?
+- How many movies vs TV shows are available on Amazon Prime?
 
-Which genres/categories are most popular?
+- Which genres/categories are most popular?
 
-What is the distribution of content ratings (e.g., PG, R, etc.)?
+- What is the distribution of content ratings (e.g., PG, R, etc.)?
 
-How has the content release trend changed over the years?
+- How has the content release trend changed over the years?
 
-Which countries produce the most content on Amazon Prime?
+- Which countries produce the most content on Amazon Prime?
 
-Are there patterns in TV shows vs movies by region or genre?
+- Are there patterns in TV shows vs movies by region or genre?
 
-What percentage of titles belong to top contributing countries?
+- What percentage of titles belong to top contributing countries?
 
 ## Process
 
